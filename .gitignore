@@ -1,0 +1,12 @@
+# IntelliJ Settings
+.idea/
+*.iml
+
+# Compiled Java files
+out/
+
+# If you want to ignore your activity folders from GitHub, uncomment these:
+Activity7/
+Activity8/
+Activity9/
+MIDTERM PROJECT/
